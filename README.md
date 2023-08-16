@@ -1,3 +1,11 @@
+# Student Note
+
+This code was developed from the [freeCodeCamp Nest.js Course](https://www.youtube.com/watch?v=GHTA143_b-s) presented by [Code with Vlad](https://youtube.com/@CodeWithVlad) and beyond Nest, I've also learn a little bit about:
+- Prisma (ORM);
+- Docker;
+- Pactum (Testing);
+- E2E tests;
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
