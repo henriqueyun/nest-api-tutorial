@@ -1,6 +1,6 @@
 # Student Note
 
-This code was developed from the [freeCodeCamp Nest.js Course](https://www.youtube.com/watch?v=GHTA143_b-s) presented by [Code with Vlad](https://youtube.com/@CodeWithVlad) and beyond Nest, I've also learn a little bit about:
+This code was developed from the [freeCodeCamp Nest.js Course](https://www.youtube.com/watch?v=GHTA143_b-s) presented by [Code with Vlad](https://youtube.com/@CodeWithVlad) and beyond Nest, I've also learned a little bit about:
 - Prisma (ORM);
 - Docker;
 - Pactum (Testing);
